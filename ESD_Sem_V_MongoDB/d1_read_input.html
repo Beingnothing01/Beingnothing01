@@ -1,0 +1,36 @@
+<input type="text" id="x" placeholder="Enter number" />  <!--Self-closing tag -->
+
+<button type="button" onclick="getSqr()">Get Square</button>
+
+<div id="result">
+    Final answer will come here
+</div>
+
+<script>
+
+//Diff betn tag and attribute
+
+// <opentag attr1="attr1value" attr2="attr2value"> content <
+
+    function getSqr()
+    {
+        num = document.getElementById("x").value;
+
+        console.log(`Sqaure of ${num} is ${num * num}`)
+
+        document.getElementById("result").innerHTML = `Square of ${num} is ${num * num}`
+        
+    }
+
+    //getSqr();
+
+
+/*
+PascalCase => ClassName
+camelCase => functionName()
+snake_case => var_name, CONSTANT_NAME
+kebab-case => css-class, static-file.png
+*/
+
+
+</script>
