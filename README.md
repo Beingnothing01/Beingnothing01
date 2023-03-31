@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Beingnothing01
+- 👋 Hi, I’m Aruna Nishad
 - 👀 I’m interested in Data Analytics, building Full Stack Cloud based applications and product management.
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on some real world open source projects related to cloud based technology, big data, machine learning and extensive use of DSA concepts for high end solutions.
