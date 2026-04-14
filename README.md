@@ -50,4 +50,4 @@
 - Solving **real-world problems**
 - Building systems that **scale under load**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Beingnothing01)
+![Profile views](https://komarev.com/ghpvc/?username=Beingnothing01)
