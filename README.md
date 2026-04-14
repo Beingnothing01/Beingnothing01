@@ -49,3 +49,5 @@
 - Writing **clean, maintainable code**
 - Solving **real-world problems**
 - Building systems that **scale under load**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Beingnothing01)
