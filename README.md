@@ -1,6 +1,6 @@
 # Hi, I'm Aruna Nishad 👋
 
-🚀 Software Engineer @ HSBC | Backend-focused Full Stack Developer  
+🚀 Software Engineer | Backend-focused Full Stack Developer  
 💡 I build scalable systems, not just projects  
 
 ---
